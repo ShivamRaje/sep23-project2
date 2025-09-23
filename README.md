@@ -7,7 +7,6 @@ This is a normal text
 
 
 2.Another item
-
     * Unordered sub-list.
 
     
