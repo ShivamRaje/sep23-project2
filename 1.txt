@@ -4,3 +4,7 @@ updated conntent in 1.txt
 
 Changes done by user2
 added some lines by user 2
+
+New chnages done by activity 2
+added new line
+
